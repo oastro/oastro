@@ -4,7 +4,7 @@
 <h4 align="center" style="color:#EDEDED"> 
     💻 
         <b>
-            Full Stack Developer | Oracle/MySQL DBA | DevOPs
+            Full Stack Developer | Oracle/MySQL DBA | DevOps
         </b> 
     <br> 
         Passionate about technology, systems, hardware and software architecture.
